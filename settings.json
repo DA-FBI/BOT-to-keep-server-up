@@ -8,7 +8,7 @@
   "server": {
     "ip": "DA_FBI.aternos.me",
     "port": 42455,
-    "version": "1.21.1"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
